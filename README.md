@@ -1,6 +1,6 @@
 # Telco Customer Churn — Dashboards em Streamlit
 
-**App publicado:** _cole aqui o link do Streamlit Community Cloud_ (ex.: `https://SEU-APP.streamlit.app`)
+**App publicado:** https://avdsteamlit-3xi84793sksmscqt7qpczm.streamlit.app
 
 Aplicação construída a partir da EDA do dataset [Telco Customer Churn](https://www.kaggle.com/datasets/jethwaaatmik/telco-customer-churn-dataset) (7.043 clientes, 21 colunas).
 
