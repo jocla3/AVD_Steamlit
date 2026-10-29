@@ -17,6 +17,7 @@
 ## Para que foi usada
 - Gerar o esqueleto do `app.py` (carga e tratamento dos dados, painel lateral, abas, gráficos Plotly).
 - Escrever os rascunhos de layout em `entregas/`.
+- Escrever a seção "Hands-on" do notebook com a EDA do Telco (estrutura, ausentes, distribuição, tratamento, relações e síntese), seguindo a estrutura da demonstração da aula.
 - Testar automaticamente todos os widgets com `streamlit.testing.AppTest`.
 
 ## O que foi aceito / modificado / rejeitado
